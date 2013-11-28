@@ -1,0 +1,7 @@
+localhost:3000/admin
+
+Login: admin
+
+Password: kNuoIDg 
+
+rake db:reset
